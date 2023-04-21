@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562220062621",
+    "project_id": "elaa-d9a9d",
+    "storage_bucket": "elaa-d9a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562220062621:android:481ccb93267ae19ebf0174",
+        "android_client_info": {
+          "package_name": "com.example.elaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562220062621-eveplbv97ota8oubr41qn3gnq9rpn2ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elaa",
+            "certificate_hash": "923fc88fad9b51c2d5254ae5ee99178290087006"
+          }
+        },
+        {
+          "client_id": "562220062621-892v6qsur3mf39ktf597ls6jqglgt4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQumXd5sK2ky89HvXtqe8WaACcvxbuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562220062621-617bd6d8b7hkcjoerksull4een99g67t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
